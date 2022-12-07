@@ -51,3 +51,4 @@ rsconnect/
 *pdf
 *html
 data
+*.Rproj
