@@ -52,3 +52,4 @@ rsconnect/
 *html
 data/
 *.Rproj
+*.txt
